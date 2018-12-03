@@ -1,11 +1,14 @@
-# sample_proj1
-Just some trail codes as of now~
+## Business Intelligence for Sales Prediction
 
-____
-**Footnotes(for my referral)**
+######     ~ final code to be added after publication.
 
-##### Dimensionality reduction using PCA (on wiki):
+* Tasks implemented:  Dimensionality reduction using PCA, Data Extraction and classification using SVM architecture.
+* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in 1,40,000 records across 13 attributes. Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns.
+* Paper currently in proceedings to International Journal and will be communicated after submission. Final code used to ba added thereafter.
 
+---
+
+**Footnotes**
 >    * The main linear technique for dimensionality reduction, PCA performs a linear mapping of the data to a lower-dimensional
 space in such a way that the variance of the data in the low-dimensional representation is maximized. 
 >    * In practice, the covariance (and sometimes the correlation) matrix of the data is constructed and the eigenvectors 
