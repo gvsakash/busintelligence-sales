@@ -1,5 +1,5 @@
 ## Business Intelligence for Sales Prediction 
-(Supervisor: Dr. T V Rajinikanth)
+
 
 ######     ~ final code to be added after publication.
 
