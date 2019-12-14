@@ -3,8 +3,10 @@
 
 ######     ~ final code to be added after publication.
 
-* Tasks implemented:  Dimensionality reduction using PCA, Data Extraction and classification using SVM architecture.
-* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in 1,40,000 records across 13 attributes. Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns.
+* Preprocessing:  Dimensionality reduction using PCA, Data Extraction and classification using SVM architecture.
+* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in 1,40,000 records across thirteen attributes. 
+* Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. Tested with Python and documented results for feature engineering. 
+* Explored with Weka as well to observe best results for NNGE and M5P tree classifiers.
 * Research Paper currently under review.. More code snippets used will be added after publication.
 
 ---
