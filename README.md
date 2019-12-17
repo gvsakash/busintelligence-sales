@@ -1,11 +1,13 @@
 ## Business Intelligence for Sales Prediction 
 
 
-* Preprocessing:  Dimensionality reduction using PCA, Data Extraction and classification using SVM architecture.
-* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in 1,40,000 records across thirteen attributes. 
-* Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. Tested with Python and documented results for feature engineering. 
+* Preprocessing:  Dimensionality reduction using PCA, Data Extraction and classification architecture.
+* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in 14K records across thirteen attributes. 
+* Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. Tested with Python and documented results for various feature engineering models. 
 * Explored with Weka as well to observe best results for NNGE and M5P tree classifiers.
-* Research Paper currently under review.. More code snippets used will be added after publication.
+* The **Research Paper** was accepted at *Journal of Advanced Research in Dynamical and Control Systems* (in press). 
+* Extended study (BI applications) in feature enginnering done includes operations of decision supporting &data management frameworks, query and reporting with OLAP and forecasts.
+
 
 ---
 
@@ -18,3 +20,4 @@ can now be used to reconstruct a large fraction of the variance of the original 
 >    * Moreover, the first few eigenvectors can often be interpreted in terms of the large-scale physical behavior of 
 the system. The original space (with dimension of the number of points) has been reduced (with data loss, but 
 hopefully retaining the most important variance) to the space spanned by a few eigenvectors.
+> Feature engineering done utilized SVM architecture heavily . and the comparative analysis of various models is the basis of paper.
