@@ -6,7 +6,7 @@
 * Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. Tested with Python and documented results for various feature engineering models. 
 * Explored with Weka as well to observe best results for NNGE and M5P tree classifiers.
 * The **Research Paper** was accepted at *Journal of Advanced Research in Dynamical and Control Systems* (in press). 
-* Extended study (BI applications) in feature enginnering done includes operations of decision supporting &data management frameworks, query and reporting with OLAP and forecasts.
+* Extended study (BI applications) in feature enginnering was done, including operations of decision support, data management frameworks, Query and reporting with OLAP, etc.
 
 
 ---
