@@ -2,7 +2,7 @@
 
 
 * Preprocessing:  Dimensionality reduction using PCA, Data Extraction and classification architecture.
-* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in 14K records across thirteen attributes. 
+* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in the records and tabulated results for thirteen attributes. 
 * Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. Tested with Python and documented results for various feature engineering models. 
 * Explored with Weka as well to observe best results for NNGE and M5P tree classifiers.
 * The **Research Paper** was accepted at *Journal of Advanced Research in Dynamical and Control Systems* (in press). 
