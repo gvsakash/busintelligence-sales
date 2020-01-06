@@ -1,8 +1,12 @@
-## Business Intelligence for Sales Prediction 
+## Repository for codes on:
+
+i. Predicitve analysis on Sales Data
+
+ii. Feature engineering extended study (Sales Dataset)
 
 
 * Preprocessing:  Dimensionality reduction using PCA, Data Extraction and classification architecture.
-* Implemented machine learning models in domain of business intelligence to explore customer purchase and behavior patterns in the records and tabulated results for thirteen attributes. 
+* Implemented machine learning models to explore customer purchase and behavior patterns in the records and tabulated results for thirteen attributes for Amazon sales data. 
 * Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. 
 * Tested with Python and documented results for various feature engineering models. Testing with Weka has shown best results for NNGE and M5P tree classifiers.
 * The **Research Paper** was accepted at *Journal of Advanced Research in Dynamical and Control Systems* (in press). 
