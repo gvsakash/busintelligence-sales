@@ -1,15 +1,15 @@
 ## Repository for codes on:
 
+Involved two sub-projects:
 i. Predicitve analysis on Sales Data
-
-ii. Feature engineering extended study (Sales Dataset)
+ii. Feature engineering models - extended study 
 
 
 * Preprocessing:  Dimensionality reduction using PCA, Data Extraction and classification architecture.
 * Implemented machine learning models to explore customer purchase and behavior patterns in the records and tabulated results for thirteen attributes for Amazon sales data. 
 * Tested with SVM and random forest classifiers after dimensionality reduction and visualized the predictions / outputs for sales patterns. 
 * Tested with Python and documented results for various feature engineering models. Testing with Weka has shown best results for NNGE and M5P tree classifiers.
-* The **Research Paper** was accepted at *Journal of Advanced Research in Dynamical and Control Systems* (in press). 
+* Paper titled *[Effective Analysis of Sales Data Set Using Advanced Classifier Techniques](https://www.jardcs.org/abstract.php?id=3257#)* was published in Journal of Advanced Research in Dynamical and Control Systems, Nov 2019. 
 * Extended study (BI applications) in feature enginnering was done, including operations of decision support, data management frameworks, Query and reporting with OLAP, etc.
 
 
