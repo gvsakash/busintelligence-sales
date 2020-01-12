@@ -1,6 +1,7 @@
 ## Repository for codes on:
 
 Involved two sub-projects:
+
 i. Predicitve analysis on Sales Data
 ii. Feature engineering models - extended study 
 
