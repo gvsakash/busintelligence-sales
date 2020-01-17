@@ -1,12 +1,12 @@
 ## Predicitve analytics on Amazon Sales:
 
 
-* Resrach Paper: *[Effective Analysis of Sales Data Set Using Advanced Classifier Techniques](https://www.jardcs.org/abstract.php?id=3257#)*, Journal of Advanced Research in Dynamical and Control Systems, Nov 2019. 
+* Publication: *[Effective Analysis of Sales Data Set Using Advanced Classifier Techniques](https://www.jardcs.org/abstract.php?id=3257#)*, Journal of Advanced Research in Dynamical and Control Systems, Nov 2019. 
 
 * Preprocessing:  Dimensionality reduction using PCA, and later used k-Means for data extraction, clustering.
 * Analysis: Implemented machine learning models to explore customer purchase and behavior patterns, with SVM & Random Forest supervised techniques.
-* Tabulated the results for 140k records and visualized patterns against 13 attributes in customized sales pipelines. Tested with Python & Weka, and documented results for various feature engineering models(Best reuslt - NNGE & M5P Trees).
-* Research: Extended study (BI applications) in feature enginnering was done, including operations of decision support, data management frameworks, Query and reporting with OLAP, etc.
+* Tabulated the results for 140k records and visualized patterns against 13 attributes, in customized sales pipelines. Presented this as a white paper and later explored BI solutions. 
+* Results & future: Tested with Python & Weka, and documented results for various feature engineering models(Best reuslt - NNGE & M5P Trees). Extended study into BI applications was done - including operations of decision support, data management frameworks, Query and reporting with OLAP, etc. Published these results in the above mentioned paper.
 > An extended study on this by Mr. Ramesh(co-author) was later published in Springer - *A Comparative Study of Data Mining Tools and Techniques for Business Intelligence*.
 
 <img src="bi-study plot.png" height="300">
