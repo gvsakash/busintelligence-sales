@@ -1,8 +1,9 @@
-## Predicitve analytics on Amazon Sales:
+## Predicitve analytics on Sales:
 
 
 * Publication: *[Effective Analysis of Sales Data Set Using Advanced Classifier Techniques](https://www.jardcs.org/abstract.php?id=3257#)*, Journal of Advanced Research in Dynamical and Control Systems, Nov 2019. 
 
+PDF of the paper: [here](https://github.com/gvsakashb/bi-sales/blob/master/my-paper.pdf)
 * Preprocessing:  Dimensionality reduction using PCA, and later used k-Means for data extraction, clustering.
 * Analysis: Implemented machine learning models to explore customer purchase and behavior patterns, with SVM & Random Forest supervised techniques.
 * Tabulated the results for 140k records and visualized patterns against 13 attributes, in customized sales pipelines. Presented this as a white paper and later explored BI solutions. 
