@@ -6,10 +6,11 @@
 * Preprocessing:  Dimensionality reduction using PCA, and later used k-Means for data extraction, clustering.
 * Analysis: Implemented machine learning models to explore customer purchase and behavior patterns, with SVM & Random Forest supervised techniques.
 * Tabulated the results for 140k records and visualized patterns against 13 attributes, in customized sales pipelines. Presented this as a white paper and later explored BI solutions. 
+<img src="img2.png" height="500">
 * Results & future: Tested with Python & Weka, and documented results for various feature engineering models(Best reuslt - NNGE & M5P Trees). Extended study into BI applications was done - including operations of decision support, data management frameworks, Query and reporting with OLAP, etc. Published these results in the above mentioned paper.
 > An extended study on this by Mr. Ramesh(co-author) was later published in Springer - *A Comparative Study of Data Mining Tools and Techniques for Business Intelligence*.
 
-<img src="bi-study plot.png" height="300">
+<img src="img1.png" height="300">
 ---
 
 **Footnotes**
