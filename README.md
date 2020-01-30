@@ -11,7 +11,7 @@ PDF of the paper: [here](https://github.com/gvsakashb/bi-sales/blob/master/my-pa
 * Results & future: Tested with Python & Weka, and documented results for various feature engineering models(Best reuslt - NNGE & M5P Trees). Extended study into BI applications was done - including operations of decision support, data management frameworks, Query and reporting with OLAP, etc. Published these results in the above mentioned paper.
 > An extended study on this by Mr. Ramesh(co-author) was later published in Springer - *A Comparative Study of Data Mining Tools and Techniques for Business Intelligence*.
 
-<img src="img1.png" height="300"> <img src="img2.png" width="450">
+<img src="img1.png" width="400"> <img src="img2.png" width="450">
 ---
 
 **Footnotes**
